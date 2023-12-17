@@ -3,7 +3,7 @@ from openai import OpenAI
 
 st.title("ChatGPT-like clone")
 
-OPENAI_API_KEY = "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"
+OPENAI_API_KEY = ""
 
 client = OpenAI(api_key=OPENAI_API_KEY)
 
